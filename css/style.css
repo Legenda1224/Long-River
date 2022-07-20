@@ -326,7 +326,7 @@ ul li:nth-child(4) a:hover::before{
 }
 
 
-@media screen and (min-width: 1149px){
+@media screen and (max-width: 1149px){
     .container__article{
         padding: 160px 0px 0px 0px;
         overflow: hidden;
